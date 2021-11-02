@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Koperasi-Daftar Akun Atas</string>
+
+    <string name="daftarTitle">Daftar Akun</string>
+
+    <string name="nameTitle">Nama Lengkap</string>
+    <string name="nameHint">Nama lengkap seperti di KTP</string>
+
+    <string name="genderTitle">Jenis Kelamin</string>
+    <string name="male">Laki-laki</string>
+    <string name="female">Perempuan</string>
+
+    <string name="placeBirthTitle">Tempat</string>
+
+    <string name="dateBirthTitle">Tanggal Lahir</string>
+
+    <string name="addressTitle">Alamat Lengkap</string>
+    <string name="addressHint">Alamat lengkap seperti di KTP</string>
+
+    <string name="jobTitle">Pekerjaan</string>
+
+    <string-array name="job">
+        <item>--- pilih ---</item>
+        <item>Wiraswasta</item>
+        <item>Wirausaha</item>
+        <item>Pegawai Negeri</item>
+    </string-array>
+
+    <string name="pilih">--- pilih ---</string>
+</resources>

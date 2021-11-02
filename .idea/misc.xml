@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/KoperasiDaftarAkunAtas/app/src/main/res/drawable/action_bar.xml" value="0.10098684210526315" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/KoperasiDaftarAkunAtas/app/src/main/res/drawable/ic_arro_down.xml" value="0.10098684210526315" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/KoperasiDaftarAkunAtas/app/src/main/res/drawable/ic_arrow_back.xml" value="0.10098684210526315" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/KoperasiDaftarAkunAtas/app/src/main/res/drawable/ic_arrow_down.xml" value="0.10098684210526315" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/KoperasiDaftarAkunAtas/app/src/main/res/drawable/ic_calender.xml" value="0.10098684210526315" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/KoperasiDaftarAkunAtas/app/src/main/res/drawable/rectangle_input.xml" value="0.18175895765472314" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/KoperasiDaftarAkunAtas/app/src/main/res/font/hind_siliguri.xml" value="0.19055374592833876" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/KoperasiDaftarAkunAtas/app/src/main/res/font/hind_siliguri_bold.xml" value="0.10986842105263157" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/KoperasiDaftarAkunAtas/app/src/main/res/layout/action_bar.xml" value="0.2" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/KoperasiDaftarAkunAtas/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/KoperasiDaftarAkunAtas/app/src/main/res/layout/app_bar.xml" value="0.11782786885245902" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/KoperasiDaftarAkunAtas/app/src/main/res/layout/color_spinner_item.xml" value="0.11782786885245902" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/KoperasiDaftarAkunAtas/app/src/main/res/layout/spinner_drop_down.xml" value="0.11782786885245902" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
