@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">Koperasi</string>
+    <string name="arrow_back_icon">arrow back icon</string>
+    <string name="logo">logo</string>
+    <string name="register_account">Daftar Akun</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="full_name_hint">Nama lengkap seperti di KTP</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="male">Laki-laki</string>
+    <string name="female">Perempuan</string>
+    <string name="place_of_birth">Tempat</string>
+    <string name="date_of_birth">Tanggal Lahir</string>
+    <string name="id_card_address">Alamat lengkap seperti di KTP</string>
+    <string name="address">Alamat Lengkap</string>
+    <string name="address_hint">Alamat lengkap sesuai di KTP</string>
+    <string name="job">Pekerjaan</string>
+    <string name="id_card_number">Nomor KTP</string>
+    <string name="phone_number_example">08</string>
+    <string name="id_card_number_hint">19 digit nomor KTP</string>
+    <string name="phone_number">Nomor Handphone</string>
+    <string name="phone_number_hint">08</string>
+    <string name="email">Email</string>
+    <string name="email_hint">example@domain.com</string>
+    <string name="password">Kata Sandi</string>
+    <string name="retype_password">Ulangi Kata Sandi</string>
+    <string name="agreement">*Syarat Persetujuan</string>
+    <string name="principal_savings">Bersedia membayar simpanan pokok sebesar Rp100.000</string>
+    <string name="mandatory_savings">Bersedia membayar simpanan wajib sebesar Rp25.000 setiap bulannya</string>
+    <string name="register">Daftar</string>
+    <string name="toggle_password">Toggle password</string>
+    <string name="choose">Pilih</string>
+    <string-array name="job_list">
+        <item>Pilih</item>
+        <item>Wiraswasta</item>
+        <item>Wirausaha</item>
+        <item>Pegawai Negeri</item>
+    </string-array>
 </resources>
