@@ -2,6 +2,7 @@ package com.itc.koperasi;
 
 // android:backgroundTint="#08839E"
 
+import android.app.AlertDialog;
 import android.app.DatePickerDialog;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
@@ -47,6 +48,7 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
         binding.etDateOfBirth.setOnClickListener(this);
 
         date = (datePickerView, year, month, dayOfMonth) -> {
+            month+=1;
             binding.etDateOfBirth.setText(dayOfMonth + "/" + month + "/" + year);
             Log.d(TAG, "onDateSet: " + dayOfMonth + "/" + month + "/" + year);
         };
@@ -215,7 +217,7 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
 
             DatePickerDialog dialog = new DatePickerDialog(
                     RegisterActivity.this,
-                    R.style.Theme_AppCompat_Dialog,
+                    AlertDialog.THEME_HOLO_LIGHT,
                     date, year, month, dayOfMonth
             );
 
